@@ -8,7 +8,7 @@ class Lab1P1{
 		Integer ii=i;
 		long l=20;
 		Long ll=l;
-		float f=0.11;
+		float f=50;
 		Float ff=f;
 		double d=10.55;
 		Double dd=d;
